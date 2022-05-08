@@ -1,3 +1,14 @@
+### This is a **cryto token** build with DFX and React Frontend. It can be locally deployed and do some add, transfer features.
+
+<br/>
+
+*P.S. This is a project firstly based on Angela Yu's web 3.0 course on Udemy.*
+
+<br/>
+DFX version: 0.9.3
+
+<br/>
+
 # Check your Balance
 
 1. Find out your principal id:
